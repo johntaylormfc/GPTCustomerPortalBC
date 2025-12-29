@@ -1,0 +1,11 @@
+.alpackages/
+.altestrunner/
+.snapshots/
+.vscode/
+*.app
+*.alpackage
+*.symbols
+*.vsix
+*.user
+*.cache
+*.log
