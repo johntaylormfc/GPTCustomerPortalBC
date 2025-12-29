@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+    "id": "0454a35f-dcf7-4bc9-acde-1b52a864885f",
+    "name": "Timetra",
+    "publisher": "Turnkey Business Solutions",
+    "version": "19.0.0.201"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "27.0.0.0",
